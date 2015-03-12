@@ -1,8 +1,5 @@
 package br.edu.puccampinas.conversor;
 
-/**
- * Created by mateusdias on 12/03/15.
- */
 public class Temperature {
 
     public enum Scale {
