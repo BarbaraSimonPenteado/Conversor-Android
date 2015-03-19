@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="modes">
+        <item>FAHRENHEIT para CELSIUS</item>
+        <item>FAHRENHEIT para KELVIN</item>
+        <item>CELSIUS para FAHRENHEIT</item>
+        <item>CELSIUS para KELVIN</item>
+        <item>KELVIN para CELSIUS</item>
+        <item>KELVIN para FAHRENHEIT</item>
+    </string-array>
+</resources>

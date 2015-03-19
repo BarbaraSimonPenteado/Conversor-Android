@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Conversor</string>
-
-    <string name="instructions">Informe a temperatura em graus F</string>
+    <string name="instructions">Selecione um modo de conversão:</string>
+    <string name="instructions_value">Informe um valor em graus:</string>
     <string name="action_settings">Settings</string>
 </resources>
